@@ -1,0 +1,34 @@
+Following the containment and eradication of the incident at *** Clinic, we should now conduct a thorough post-incident review. This evaluation is designed to extract lessons, refine procedures, and prepare for potential future incidents. Conducting a post-incident review requires a strategic and collaborative approach, involving not only the cybersecurity team but also relevant stakeholders within the organization. 
+It's important to note that the breadth, depth, and audience of these reviews will vary depending on the scope and severity of the incident as well as the size of the organization.
+
+Response can be in the form of a presentation, email, document, or whatever other means of communication you think would be most appropriate and pragmatic for this situation. 
+
+Food for thought:
+
+Task
+	Determine: Who should be the target audience of this incident review?
+Was this an internal and small incident, relevant only to some stakeholders?
+Was this an external and large incident?
+Should the organization as a whole be involved in this review with a wider scope?
+Create: Create your Incident Review with the following parameters in mind
+Timeline
+Breakdown the timeline from detection to resolution
+Security Review
+What went right and what could have been handled better
+Relevant Stakeholders
+Determine who the department heads might be. (Legal counsel, public relations, other affected parties)
+Discuss potential business impact and any legal implications
+Address any concerns about customer data, public image, or  corporate assets.
+Gather feedback on communication effectiveness during the incident.
+	
+If incident requires a larger-scale review, then also consider:
+Method
+Is this an all-hands-on-deck meeting, or a company-wide communication?
+Information
+Ensure everyone understands the nature of the incident and the steps taken.
+Address potential questions and concerns
+Discuss future preventive measures and investments
+
+Completed When:
+You will know you are done when you have determined the audience and type of incident response you will make, and you have made the response using the desired medium(s). 
+You have considered the various bullet points above, and have a comprehensive incident review ready for your audience to see.
