@@ -1,0 +1,17 @@
+Event Type: Error
+Event Source: Application Error
+Event Category: (100)
+Event ID: 1000
+Date: 2023-09-20
+Time: 12:01:15
+User: N/A
+Computer: DESKTOP-1234567
+Description:
+Faulting module name: unknown, version: 0.0.0.0, time stamp: 0x56f23dd8
+Exception code: 0xc0000005
+Fault offset: 0x000000000000a040
+Faulting process id: 0x1f40
+Faulting application start time: 0x01d7a45e3c89a2db
+Faulting application path: C:\Windows\explorer.exe
+Faulting module path: unknown
+Report Id: a1234567-b890-1234-c567-d89012345678
