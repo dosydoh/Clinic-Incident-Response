@@ -1,0 +1,17 @@
+Having identified the initial scope and potential source of the unusual network activity at the Clinic, now for the next crucial phases: Containment and Eradication. The primary objective is to prevent further damage and eliminate the threat from the environment.
+
+Task
+Short-term and Long-term Containment Plans: 
+Short-term: Make a plan to Isolate affected systems to prevent further damage or spread of the malicious activity. This can be temporary until long-term solutions are in place.
+Long-term: Make a plan Implement long-term measures such as system patches, firewall rules, or enhanced intrusion detection mechanisms to secure compromised systems.
+
+While making plans, I will not be executing the plan. I will not be performing these actions, instead I'm  describing what will need to be done in response to this incident. In the plan, make sure to consider:
+You've planned to back up the affected systems. This ensures you have a snapshot of the compromised environment.
+You’ve planned to Identify any malware or malicious code, and document its behavior and characteristics.
+You’ve planned to Identify and disabled any unauthorized or suspicious accounts.
+You’ve planned to make recommendations on enhancing access controls and you have considered multi-factor authentication for sensitive systems or data.
+
+
+Completed When:
+You will know you are done when you have created a short-term plan, and you have created a separate long-term plan. The two plans work together to cover the considerations outlined above, as well as any other additional considerations you deem pertinent.
+
